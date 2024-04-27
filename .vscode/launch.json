@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ASUS/Documents/Code/VS code",
-      "program": "c:/Users/ASUS/Documents/Code/VS code/build/Debug/outDebug",
+      "cwd": "c:/Users/ASUS/Documents/Code/CP/Competitive-Programming",
+      "program": "c:/Users/ASUS/Documents/Code/CP/Competitive-Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
